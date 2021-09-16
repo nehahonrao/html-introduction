@@ -1,3 +1,26 @@
-img{
-   background-color: aqua;
-}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20;
+    border: 5px solid #555;
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+   
+  }
+ h1{
+     
+     padding-top:100px;
+     padding-right: 70px;
+ }
+ #mail{
+    
+    padding-right: 150px;
+ }
+ body{
+    border: 5px solid #555;
+ }
